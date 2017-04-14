@@ -1,0 +1,6 @@
+[submodule "bookstore-api"]
+	path = bookstore-api
+	url = https://github.com/kyle-rader/bookstore-api.git
+[submodule "bookstore-client"]
+	path = bookstore-client
+	url = https://github.com/kyle-rader/bookstore-client.git
